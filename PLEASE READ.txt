@@ -1,0 +1,4 @@
+******* I converted large boostrap and css files to min files for reduce size and improve the speed.*******
+
+plugins - slik.js
+APK      - push api
